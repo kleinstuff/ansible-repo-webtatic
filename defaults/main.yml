@@ -1,0 +1,3 @@
+---
+repo_rpm: "https://mirror.webtatic.com/yum/el7/webtatic-release.rpm"
+repo_gpg: "https://mirror.webtatic.com/yum/RPM-GPG-KEY-webtatic-el7"
