@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/kleinstuff/ansible-zabbix-agent.png)](https://travis-ci.org/kleinstuff/ansible-zabbix-agent)
+[![Build Status](https://travis-ci.org/kleinstuff/ansible-role-repo-webtatic.svg?branch=master)](https://travis-ci.org/kleinstuff/ansible-role-repo-webtatic.svg?branch=master)
 
 kleinstuff.repo-webtatic
 =========
