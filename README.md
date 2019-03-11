@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/kleinstuff/ansible-role-repo-webtatic.svg?branch=master)](https://travis-ci.org/kleinstuff/ansible-role-repo-webtatic.svg?branch=master)
+[![Build Status](https://travis-ci.org/kleinstuff/ansible-role-repo-webtatic.svg)](https://travis-ci.org/kleinstuff/ansible-role-repo-webtatic))
 
 kleinstuff.repo-webtatic
 =========
