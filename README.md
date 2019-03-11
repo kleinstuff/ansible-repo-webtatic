@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.org/kleinstuff/ansible-repo-webtatic.png)](https://travis-ci.org/kleinstuff/ansible-repo-webtatic)
 
-kleinstuff.repo-webtatic
+kleinstuff.ansible_repo_webtatic
 =========
 
 Install Webtatic PHP Repository for RHEL/CentOS
@@ -29,7 +29,7 @@ Example Playbook
 ```
     - hosts: servers
       roles:
-         - { role: kleinstuff.repo-webtatic }
+         - { role: kleinstuff.ansible_repo_webtatic }
 ```
 License
 -------
